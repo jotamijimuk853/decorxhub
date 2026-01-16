@@ -402,6 +402,9 @@
             font-size: 1.3rem;
         }
     </style>
+
+         <a href="/" alt="site stats" target="_blank" >
+<img  src="//sstatic1.histats.com/0.gif?4977143&101" alt="site stats" border="0">
 </head>
 <body>
 
@@ -894,5 +897,8 @@
         });
     </script>
 
+    
+
 </body>
 </html>
+
